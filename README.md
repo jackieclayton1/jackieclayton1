@@ -1,15 +1,38 @@
-### Hello there!
-I'm Jacqualine Clayton and I'm an aspiring data analyst. Welcome to my GitHub!
+# Hello there 👋 — I’m Jacqualine Clayton
 
-### My Mission
-I'm driven by an appreciation for visualization. My mission is to make understanding of data as accessible as possible.
+💼 **Data Analyst | SQL • Excel • Tableau • Python**  
+📊 Turning raw data into clear insights & actionable strategies  
 
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+---
 
-### Learning
-[![My Skills](https://skillicons.dev/icons?i=python,sql)](https://skillicons.dev)
+## 🚀 About Me  
+- 🔍 Passionate about **transforming data** into meaningful business decisions  
+- 🛠 Skilled in **end-to-end analytics**: data extraction, cleaning, visualization, and storytelling  
+- 📊 Experienced with **real world datasets** and **interactive dashboards**  
+- 📚 Constantly learning and upskilling in **data analysis & visualization**  
 
-### Connect with me!
-<a href="https://www.linkedin.com/in/jacqualine-clayton">
-<img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+---
+
+## 🛠 Skills  
+
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)   
+
+---
+
+## 📌 Featured Projects  
+
+- 📊 **[Startup Success Predictor]([(https://github.com/MatDawit/Startup-Success-Predictor/tree/main)])** — machine learning model that predicts startup success
+- 🗄 **[15 Days of Python Challenge]((https://github.com/jackieclayton1/python_party_summer_2025/tree/main))** — python based solutions to real world data problems
+  
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacqualine-clayton)
+
+---
+
+💡 *I believe the best data analysts don’t just report numbers — they tell the story behind them and recommend the next step.*  
