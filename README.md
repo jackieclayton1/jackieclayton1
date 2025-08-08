@@ -1,6 +1,6 @@
 # Hello there 👋 — I’m Jacqualine Clayton
 
-💼 **Data Analyst | SQL • Excel • Tableau • Python**  
+💼 **Data Analyst | SQL • Python • Tableau • Excel**  
 📊 Turning raw data into clear insights & actionable strategies  
 
 ---
@@ -16,9 +16,9 @@
 ## 🛠 Skills  
 
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)   
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-💡 *I believe the best data analysts don’t just report numbers — they tell the story behind them and recommend the next step.*  
+💡 *Information is the oil of the 21st century, and analytics is the combustion engine.* 
