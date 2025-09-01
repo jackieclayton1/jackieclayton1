@@ -25,7 +25,6 @@
 ## 📌 Featured Projects  
 
 - 📊 **[Startup Success Predictor](https://github.com/MatDawit/Startup-Success-Predictor/tree/main)** — machine learning model that predicts startup success
-- 🗄 **[15 Days of Python Challenge](https://github.com/jackieclayton1/python_party_summer_2025/tree/main)** — python based solutions to real world data problems
   
 ---
 
