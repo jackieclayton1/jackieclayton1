@@ -1,12 +1,12 @@
 # Hey there — I’m Jacqualine Clayton
 
-I'm a data analyst with experience collaborating with tech companies to create and enhance business solutions. Highly skilled in leveraging SQL, Excel, Tableau, and Python to manage sensitive stakeholder data, deliver business intelligence, generate actionable insights, and support informed decision-making.
+I'm a data analyst with experience collaborating with tech companies to create and enhance business solutions. Highly skilled in leveraging SQL, Excel, Power BI, and Python to manage sensitive stakeholder data, deliver business intelligence, generate actionable insights, and support informed decision-making.
 
 ---
 
 ## Expertise
 
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ---
 
