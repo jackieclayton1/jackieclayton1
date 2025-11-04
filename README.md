@@ -23,7 +23,7 @@ I'm a data analyst with experience collaborating with tech companies to create a
 ## Finance Projects
 - **[Loan Delinquency Analysis](https://github.com/jackieclayton1/loan-delinquency-analysis)** - analyzed a financial institution's loan data to determine which customer segments are most at risk of loan default to help the risk management team improve loan approval strategies.
   
-  Tools: Microsoft Excel, PowerBI
+  Tools: Microsoft Excel, Microsoft Power BI
 
 - **[Startup Success Prediction Model](https://github.com/MatDawit/Startup-Success-Predictor/tree/main)** — built a machine learning model to help investors identify high potential companies to invest in.
 
