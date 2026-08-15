@@ -3,6 +3,7 @@ I work as a Data Analyst (Student Worker) on campus for OTide (Office of Teachin
 
 ### I'm currently learning
 Web scraping using Python (beautifulsoup)
+
 Fundamentals of Machine Learning model deployment
 
 ### How to reach me
